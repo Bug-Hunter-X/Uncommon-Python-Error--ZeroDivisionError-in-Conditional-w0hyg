@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon error: the ZeroDivisionError. The error occurs when the input is zero in a conditional statement.  The solution file provides a fix to gracefully handle the ZeroDivisionError.
